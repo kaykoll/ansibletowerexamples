@@ -1,2 +1,0 @@
-# ansibletowerexamples
-Ansible Tower Examples
