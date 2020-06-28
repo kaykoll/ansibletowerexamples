@@ -1,0 +1,6 @@
+- name: First sample with variables
+  hosts: all
+  tasks:
+    - name: With Variables
+      debug:
+        msg: "Hello World!"
