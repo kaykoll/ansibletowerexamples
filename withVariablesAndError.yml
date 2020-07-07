@@ -1,0 +1,6 @@
+- name: First sample with variables
+  hosts: all
+  tasks:
+    - name2: With Variables
+      debug:
+        msg: "Hello {{firstVar}}"
